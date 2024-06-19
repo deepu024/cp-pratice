@@ -1,0 +1,21 @@
+# Ignore everything except .cpp files
+*
+!*.cpp
+
+!.gitignore
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear during runtime
+.Trashes
+*.swp
+*.lock
